@@ -47,7 +47,10 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** on Japan'
    - If applicable, mapping life expectancy trends across different regions of Japan.
 
 ## 📈 Sample Visualization
-![Life Expectancy Trend](Images/life_expectancy_trend.png)
+![Life Expectancy Trend]
+
+![image](https://github.com/user-attachments/assets/5dc2dfea-bde9-4831-aa3d-4e1c7dece92e)
+
 
 ## 🚀 How to Run This Project
 ### 1️⃣ Install Dependencies
